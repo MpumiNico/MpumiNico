@@ -1,9 +1,9 @@
-## Hi 👋, I am Mpumi Nicollete Mahlalela
+                                                     ## Hi 👋, I am Mpumi Nicollete Mahlalela
 
-🌟 **Aspiring Software Engineer** passionate about building user-friendly, responsive, and efficient web applications.
+                     🌟 **Aspiring Software Engineer** passionate about building user-friendly, responsive, and efficient web applications.
 
 
-### 🤝 Connect with me  
+   ### 🤝 Connect with me  
 <p>
   <a href="https://www.linkedin.com/in/mpuminicolletemahlalela" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
