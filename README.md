@@ -1,6 +1,6 @@
                         Hi 👋, I am Mpumi Nicollete Mahlalela
 
-        🌟 Aspiring Software Engineer
+                           🌟 Aspiring Software Engineer
 
 
    🤝 Connect with me  
